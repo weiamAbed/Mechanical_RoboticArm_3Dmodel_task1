@@ -16,4 +16,4 @@ INSTALLATION INSTRUCTIONS OF THE ROBOTIC ARM:
 - 3- Then put the second part which is the waist on top of the base.
 - 4- Next place the first link jointing with the base, and the second link jointing with the first link .
 - 5- Now for the gripper, place it at the end of the second link. 
-- 6- Finally, the motors are placed at the joints including the one inside the body, and the one controlling the gripper (notice that this motor is sligthly smaller than the rest ).
+- 6- Finally, the motors (SERVO) are placed at the joints including the one inside the body, and the one controlling the gripper (notice that this motor is sligthly smaller than the rest ).
