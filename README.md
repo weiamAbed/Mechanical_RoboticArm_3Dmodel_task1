@@ -11,5 +11,5 @@ NOTE::
 - I added a motors in each joint (including a motor for the base which is inside the base body at the botton) and a smaller different motor than the rest at the gripper.
 -----------------------------------------------------------------------------------------------------------------------------------------
 INSTRUCTIONS OF THE INSTALLATION OF THE ROBOTIC ARM:
--1- 
--2-
+- 1- 
+- 2-
