@@ -9,3 +9,4 @@ Finally,I had to turn it back to .stl to be able to upload it in my GitHub accou
 Note: 
 - the final position of the model I decided to go with was NOT the initial position of the robot, since different links and joints are much visible and understandable by this position.
 - I added a motors in each joint (including a motor for the base which is inside the base body at the botton) and a smaller different motor than the rest at the gripper.
+-----------------------------------------------------------------------------------------------------------------------------------------
