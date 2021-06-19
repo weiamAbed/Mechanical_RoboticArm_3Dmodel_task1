@@ -10,7 +10,7 @@ NOTE:
 - the final position of the model I decided to go with was NOT the initial position of the robot, since different links and joints are much visible and understandable by this position.
 - I added a motors in each joint (including a motor for the base which is inside the base body at the botton) and a smaller different motor than the rest at the gripper.
 -----------------------------------------------------------------------------------------------------------------------------------------
-INSTALLATION INSTRUCTIONS OF THE ROBOTIC ARM:
+INSTALLATION INSTRUCTIONS OF THE ROBOTIC ARM (5 degree of freedom):
 - 1- At the begining, the robotic arm consists of 5 parts: base, waist, 2 links and a gripper. In addition of 5 motors.
 - 2- Place the base on a flat surface
 - 3- Then put the second part which is the waist on top of the base.
