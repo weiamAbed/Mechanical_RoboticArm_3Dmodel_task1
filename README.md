@@ -1,6 +1,9 @@
 # Robotic Arm 3Dmodel
+
 This repository is for task 1 of mechanical track of my summer training at Smart-Methods.
+
 I have contained the robotic arm after placing it's individual parts in their appropiate positions. Incoming, are the steps I got through to have this final result:
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 After downloading the individaual parts from Smart-Methods GitHub account, and since i'm using MAYA software, it does not support .stl extension, so to convert it to .obj ( which is supported by MAYA ) I used "https://www.meshconvert.com/" website for converting.
