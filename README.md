@@ -15,7 +15,7 @@ NOTE:
 - I added a motors (SERVO) in each joint (including a motor for the base which is inside the base body at the botton) and a smaller different motor than the rest at the gripper.
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-INSTALLATION INSTRUCTIONS OF THE ROBOTIC ARM (5 degree of freedom):
+# INSTALLATION INSTRUCTIONS OF THE ROBOTIC ARM (5 degree of freedom):
 - 1- At the begining, the robotic arm consists of 5 parts: base, waist, 2 different links and a gripper. In addition of 5 motors (SERVO).
 - 2- Place the base on a flat surface the base is the bigger part among the rest
 - 3- Then put the second part which is the waist on top of the base it looks like a flat platform including additionla part to apply the first link throuh it, and make sure to apply all the screws in it to join both the base and the waist.
